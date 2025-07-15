@@ -1,22 +1,22 @@
-# <h1 align="center">👋 ¡Hola! Soy Iván</h1>
+<h1 align="center">👋 Hi! I'm Iván</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Sistemas | Backend · UX · Redes · Automatización<br>
-  🚀 Apasionado por crear soluciones reales con tecnología
+  Computer Engineering Student | Backend · UX · Networking · Automation<br>
+  🚀 Passionate about building real-world tech solutions
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-- 🎓 Estudiante de Ingeniería en Sistemas Computacionales en el Tec de Veracruz  
-- 💻 Me enfoco en desarrollo backend, automatización y diseño UX  
-- 🌐 Actualmente colaboro en el Centro de Cómputo del Tec, administrando una red con más de **11,000 hosts** y **140 switches**  
-- 🛠️ Trabajando en la migración de mi app de clínica de escritorio a una versión web con **Django**
+- 🎓 Computer Engineering student at Instituto Tecnológico de Veracruz, Mexico  
+- 💻 Focused on backend development, automation, and user-centered design  
+- 🌐 Currently collaborating at the university's Computing Center, managing a network with over **11,000 active hosts** and **140 switches**  
+- 🛠️ Working on migrating my desktop clinic management app to a web version using **Django**
 
 ---
 
-## 🧰 Tecnologías
+## 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,26 +31,26 @@
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
-### 🏥 Sistema de Clínica Médica (escritorio)
-> App con Python, CustomTkinter y MySQL para gestionar citas, doctores y pacientes.  
-> [Versión web en desarrollo con Django]
+### 🏥 Clinic Management System (Desktop)
+> A desktop app built with Python, CustomTkinter and MySQL to manage appointments, doctors, and patients.  
+> [Web version under development with Django]
 
-### 🅿️ Sistema de Estacionamiento
-> Proyecto en consola con Java para controlar entradas/salidas y generar tickets.
+### 🅿️ Parking Lot Control System
+> Java-based console project to register vehicle entry/exit and generate tickets.
 
-### 💡 Proyectos en curso
-- Migración web con Django
-- Automatización con GitHub Actions
-- Diseño UX aplicado a interfaz web
+### 💡 Currently Working On
+- Django web version of clinic system
+- GitHub Actions for automation
+- UX-based improvements for interfaces
 
 ---
 
-## 📚 Certificaciones
+## 📚 Certifications
 
-- ✅ [Diseño UX – Google (Coursera)](https://www.coursera.org/account/accomplishments)  
-- 🔄 GitHub Actions (en progreso)
+- ✅ [UX Design – Google (Coursera)](https://www.coursera.org/account/accomplishments)  
+- 🔄 GitHub Actions (in progress)
 
 ---
 
@@ -64,10 +64,10 @@
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username-here)
 
 ---
 
-<p align="center">✨ ¡Gracias por visitar mi perfil! ✨</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
