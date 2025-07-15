@@ -40,7 +40,7 @@
 ### 🅿️ Parking Lot Control System
 > Java-based console project to register vehicle entry/exit and generate tickets.
 
-### 💡 Currently Working On
+### 🚧 In Progress
 - Django web version of clinic system
 - GitHub Actions for automation
 - UX-based improvements for interfaces
