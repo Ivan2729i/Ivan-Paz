@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm Iván</h1>
 
 <p align="center">
-  Computer Engineering Student | Backend · UX · Networking · Automation<br>
+  Computer Systems Engineering Student | Backend · UX · Networking · Automation<br>
   🚀 Passionate about building real-world tech solutions
 </p>
 
@@ -9,9 +9,9 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering student at Instituto Tecnológico de Veracruz, Mexico  
+- 🎓 Computer Systems Engineering Student at Instituto Tecnológico de Veracruz, Mexico  
 - 💻 Focused on backend development, automation, and user-centered design  
-- 🌐 Currently collaborating at the university's Computing Center, managing a network with over **11,000 active hosts** and **140 switches**  
+- 🌐 I currently work at my university's Computing Center, managing a network with over **11,000 active hosts** and **120 switches**. 
 - 🛠️ Working on migrating my desktop clinic management app to a web version using **Django**
 
 ---
@@ -19,14 +19,14 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CustomTkinter-1E88E5?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UX_Design-5C6BC0?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CustomTkinter-1E88E5?style=for-the-badge&logo=code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/UX%20Design-5C6BC0?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -49,24 +49,14 @@
 
 ## 📚 Certifications
 
-- ✅ [UX Design – Google (Coursera)](https://www.coursera.org/account/accomplishments)  
-- 🔄 GitHub Actions (in progress)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan2729i&show_icons=true&theme=radical" alt="Ivan's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan2729i&layout=compact&theme=radical" alt="Ivan's Top Languages" />
-</p>
+- ✅ [UX Design – Google (Coursera)](https://coursera.org/verify/professional-cert/2XISD5EAV471)  
+- 🔄 GitHub Actions (códigofacilito)
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-paz-valladares-b8886a343)
 
 ---
 
